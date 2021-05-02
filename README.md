@@ -20,4 +20,5 @@ W folderze z programem:
 ## Wyniki
 
 ![Success](success.png)
+![Failure](failure1.png)
 ![Failure](failure.png)
